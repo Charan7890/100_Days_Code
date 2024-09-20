@@ -1,4 +1,4 @@
-Problem Statement:
+'''Problem Statement:
 
 Given a string containing letters followed by numbers, your task is to repeat each letter based on the number immediately following it. The number can be of any length (i.e., it can be more than one digit).
 
@@ -14,6 +14,8 @@ Input:
 Output:
 "aaaabbbbbbbbbbbbcccccc"
 _----------+------------------------------------------------------------------------------------------------666
+'''
+
 inp: list = list(input().strip())
 
 
