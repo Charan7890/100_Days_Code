@@ -1,3 +1,10 @@
+'''Question: Water Bottle Exchange Problem
+
+You are given a certain amount of money (in rupees) and the cost of exchanging empty bottles for a new full bottle. Each bottle costs 1 rupee, and after drinking, you can exchange a certain number of empty bottles (given as e) for one new full bottle. Write a program that calculates the maximum number of water bottles you can drink with the given amount of money and exchange rate. If the exchange rate is 1, the process would go into an infinite loop, so handle this as an exception.
+
+Input: Two integers separated by a space: the amount of money (n) and the exchange rate (e).
+Output: The maximum number of bottles that can be consumed.'''
+
 def maxBottles(n:int, e:int) -> None:
 
     noOfBottles = n
