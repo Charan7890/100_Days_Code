@@ -1,6 +1,6 @@
-# 100 Days Code Challenge (July Edition)
+# 100 Days Code Challenge (October Edition)
 
-This repository contains my progress for the **100 Days Code Challenge** during the month of July.
+This repository contains my progress for the **100 Days Code Challenge** during the month of October.
 
 ## About
 
